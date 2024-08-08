@@ -27,7 +27,7 @@
 
 
 - Contribution are always welcome and recommended! Here is how:
-- Clone https://github.com/YOURLOGIN/task-app.git
+- Clone https://github.com/DouglaSchmitzz/task-app.git
 - Make your changes
 - <a href= "https://github.com/DouglaSchmitzz/task-app/pulls">Create a pull request<a/>
 
