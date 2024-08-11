@@ -1,7 +1,7 @@
 <h1 align="center">Lista de Tarefas<h1/>
 
 <div align="center">
-  <img height="250" widht= "200" src="https://github.com/user-attachments/assets/ab3b340f-201e-47e1-a9b6-8774cfac7279"/>
+  <img height="250" width= "520" src="https://github.com/user-attachments/assets/ab3b340f-201e-47e1-a9b6-8774cfac7279"/>
 </div>
 
  <div align="center">
